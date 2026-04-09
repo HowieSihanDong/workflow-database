@@ -13,7 +13,7 @@
 ---
 
 **地域浏览器示例：** 南非/北欧/土耳其/印尼 浏览器
-**Chrome Profile 映射：** 参考 [references/browser-profiles.md](../../references/browser-profiles.md)
+**Chrome Profile 映射：** 参考 /resources/tips.md
 
 ## 大致流程：YouTube视频上传 & 发布
 在开始执行脚本前，请确认以下信息的完整性：

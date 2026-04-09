@@ -8,9 +8,9 @@
 
 **前置要求：** 需提供 目标视频信息、目标地域浏览器、回复数量
 
-**触发关键词：** YouTube + 评论 + 回复
+**触发关键词/模式：** YouTube + 评论 + 回复
 
-**Chrome Profile 映射：** 参考 [references/browser-profiles.md](../../references/browser-profiles.md)
+**Chrome Profile 映射：** 参考 /resources/tips.md
 
 ## 大致步骤
 1. 使用用户指定浏览器，打开 https://studio.youtube.com/ （全程仅在 `studio.youtube.com` 域内操作，不打开其他网站或外链。）

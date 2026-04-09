@@ -11,7 +11,7 @@
 
 **触发关键词：** YouTube + 数据 + 分析/提取/指标
 
-**Chrome Profile 映射：** 参考 [references/browser-profiles.md](../../references/browser-profiles.md)
+**Chrome Profile 映射：** 参考 /resources/tips.md
 
 ## 前置输入
 - 可选：视频名字（如：Algorithm Visualization - Search Comparison），也可以看全部视频数据

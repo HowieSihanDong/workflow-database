@@ -19,8 +19,6 @@ openclaw browser click e14 --log-level error --browser-profile <chromeID>
 土耳其：remote-192-168-1-58-9223
 印度尼西亚：remote-192-168-1-59-9223
 
-详情请参考 [references/browser-profiles.md](../references/browser-profiles.md) 中的地域映射表。
-
 ## Tabs 操作
 
 ```bash
