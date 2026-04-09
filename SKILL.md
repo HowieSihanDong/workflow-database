@@ -1,6 +1,6 @@
 ---
 name: "workflow-database"
-description: "`workflow-database` 是一个流程知识库，旨在为智能体提供针对特定平台（如 YouTube）的标准化操作流程。它通过结合 CDP/Playwright 技能，实现自动化的网页交互任务。"
+description: "`workflow-database` 是一个流程知识库，旨在为智能体提供针对特定平台（如 YouTube、Facebook 等平台）的标准化操作流程。它通过结合 CDP/Playwright 技能，实现自动化的网页交互任务。"
 ---
 
 # 🛠 现有工作流
