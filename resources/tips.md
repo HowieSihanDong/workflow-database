@@ -11,6 +11,22 @@ openclaw browser click e14 --log-level error --browser-profile <chromeID>
 
 ```bash
 --browser-profile remote-192-168-1-58-9223
+
+openclaw browser  --browser-profile remote-192-168-1-43-9223  snapshot 
+
+openclaw browser snapshot --interactive --browser-profile remote-192-168-1-58-9223
+```
+这些command可能会出错（因为顺序，参数各种原因）。
+
+如果出错，同步使用 browser 工具，例如:
+-  "upload" 直接上传文件
+- 使用 browser 工具的 action: "act" + request: { kind: "click" } 来点击按钮
+- 使用 browser 工具的 action: "act" + request: { kind: "type" } 来输入标题和描述。
+换言之，CLI或者browser工具都可以完成，你要敏捷快速的判断，做出最佳实践。
+
+### 一个拼凑正确的指令示例
+```bash
+openclaw browser click e14 --browser-profile remote-192-168-1-58-9223
 ```
 
 ### 地域与 CDP URL 对应表
