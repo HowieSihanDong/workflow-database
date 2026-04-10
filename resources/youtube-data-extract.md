@@ -8,10 +8,8 @@
 - "分析 YouTube 视频数据"
 
 **前置要求：** 需提供 目标地域浏览器、需要查询的指标清单
-
 **触发关键词：** YouTube + 数据 + 分析/提取/指标
 
-**Chrome Profile 映射：** 参考 /resources/tips.md
 
 ## 前置输入
 - 可选：视频名字（如：Algorithm Visualization - Search Comparison），也可以看全部视频数据
