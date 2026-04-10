@@ -1,5 +1,5 @@
 ---
-name: "workflow-database"
+name: "auto-task-database"
 description: "社交平台自动化操作 Skill。触发条件：(1) 用户提及上传 YouTube/Facebook 视频 + 指定地域浏览器；(2) 用户要求回复/提取 YouTube 评论或数据；(3) 用户指定 '随机IP/土耳其/印尼浏览器' 地域 + 任务指令。执行 YouTube 上传、评论回复、数据提取、Facebook Reels 上传等操作。"
 ---
 

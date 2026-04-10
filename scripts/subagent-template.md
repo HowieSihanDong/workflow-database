@@ -6,7 +6,7 @@
 {
   "name": "sessions_spawn",
   "parameters": {
-    "task": "使用 workflow-database skill 完成 {{任务描述}}：\n\n## 任务配置\n{{任务配置}}\n\n## 执行步骤\n1. 根据任务配置完成相应操作\n2. 完成后确认任务完成",
+    "task": "使用 auto-task-database skill 完成 {{任务描述}}：\n\n## 任务配置\n{{任务配置}}\n\n## 执行步骤\n1. 根据任务配置完成相应操作\n2. 完成后确认任务完成",
     "label": "{{任务标签}}",
     "runtime": "subagent",
     "mode": "run"
